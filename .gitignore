@@ -2,6 +2,17 @@
 *
 !*/
 
+# Do not ignore DevelopmentAndTestingArtifactsFolder
+!/DevelopmentAndTestingArtifacts/**
+
+#Do not ignore TestingReports folder
+!/TestingReports/**
+
+#Do not ignore Images folder
+!/Images/**
+#Do not ignore Technical Documentation
+!TechnicalDocumentation.md
+
 # Do not ignore git files in the root of the repo.
 !/.git*
 
